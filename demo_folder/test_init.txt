@@ -1,1 +1,2 @@
 this is to test git init command
+************adding first new line
